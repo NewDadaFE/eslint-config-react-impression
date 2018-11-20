@@ -1,4 +1,6 @@
-# eslint-config-react-impression has been moved into [generator](https://github.com/NewDadaFE/generator)
+已废弃，迁移到[generator](https://github.com/NewDadaFE/generator)
+
+# eslint-config-react-impression
 
 [style-guide](https://github.com/NewDadaFE/style-guide)
 
